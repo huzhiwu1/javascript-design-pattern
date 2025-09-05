@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/huzhiwu1/javascript-design-pattern/issues"
   },
-  "homepage": "https://github.com/huzhiwu1/javascript-design-pattern#readme"
+  "homepage": "https://github.com/huzhiwu1/javascript-design-pattern#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
 }
