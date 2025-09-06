@@ -99,3 +99,7 @@ class GameSystem {
     return this.gameRoleFactory.getGameRolTotal();
   }
 }
+
+const gameSystem = new GameSystem();
+const yasso = gameSystem.createGamePeople("亚索", 2, RoleType.肉盾);
+yasso.skill();
